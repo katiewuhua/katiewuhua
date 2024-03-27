@@ -1,0 +1,21 @@
+*{
+    letter-spacing: 0.8px;
+    line-height: 1.5em;
+}
+
+p.redred{
+    background-color: black;
+    color:#FF4040;
+    border: 5px solid;
+    border-color: brown;
+    font-size: 200%;
+    text-align: left;
+    text-indent:4em；
+}
+
+.blueblue{
+     color:	#6692EF;
+}
+body{
+    font-family: 'Noto Sans TC',sans-serif;
+}
